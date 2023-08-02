@@ -1,0 +1,15 @@
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.csproj.AssemblyReference.cache
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.GeneratedMSBuildEditorConfig.editorconfig
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.AssemblyInfoInputs.cache
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.AssemblyInfo.cs
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.csproj.CoreCompileInputs.cache
+/home/guille/Documentos/programs/c#/NQueens/bin/Debug/net6.0/NQueens
+/home/guille/Documentos/programs/c#/NQueens/bin/Debug/net6.0/NQueens.deps.json
+/home/guille/Documentos/programs/c#/NQueens/bin/Debug/net6.0/NQueens.runtimeconfig.json
+/home/guille/Documentos/programs/c#/NQueens/bin/Debug/net6.0/NQueens.dll
+/home/guille/Documentos/programs/c#/NQueens/bin/Debug/net6.0/NQueens.pdb
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.dll
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/refint/NQueens.dll
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.pdb
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/NQueens.genruntimeconfig.cache
+/home/guille/Documentos/programs/c#/NQueens/obj/Debug/net6.0/ref/NQueens.dll
